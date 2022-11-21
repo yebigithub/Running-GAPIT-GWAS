@@ -2,7 +2,7 @@
 Some efficient Rscript and shfile to run GAPIT GWAS in VT arc.
 
 ### Step1: preprocess
-[Preprocess.Rmd](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/Preprocess.Rmd) 
+[Preprocess.Rmd](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/preprocess.R) 
 - Preprocess phenotype and genotype data files.
 - Remove duplicated id.
 - Match order of id in geno and pheno data.
@@ -20,4 +20,9 @@ Some efficient Rscript and shfile to run GAPIT GWAS in VT arc.
 - Using commandArgs to set range of traits.
 
 ### Step4: run sh file in vt arc.
-[trt_1-10.sh](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/trt_1-10.sh)
+[trt_1-10.sh](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/trt_1-30.sh)
+
+### Other steps
+[SignificantSNP.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/SignificantSNP.R)
+[manhattan_CoreFunction.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/manhattan_CoreFunction.R)
+[manhattan_draw.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/manhattan_draw.R)
