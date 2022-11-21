@@ -23,6 +23,6 @@ Some efficient Rscript and shfile to run GAPIT GWAS in VT arc.
 [trt_1-10.sh](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/trt_1-30.sh)
 
 ### Other steps
-[SignificantSNP.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/SignificantSNP.R)
-[manhattan_CoreFunction.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/manhattan_CoreFunction.R)
-[manhattan_draw.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/manhattan_draw.R)
+- [SignificantSNP.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/SignificantSNP.R)
+- [manhattan_CoreFunction.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/manhattan_CoreFunction.R)
+- [manhattan_draw.R](https://github.com/yebigithub/Running-GAPIT-GWAS/blob/main/manhattan_draw.R)
